@@ -184,8 +184,9 @@ navbar{
     text-transform: uppercase;
     -moz-osx-font-smoothing: grayscale; }
   .drop-menu .postfix.button, #search-form input#searchsubmit {
-    background-image: url("../img/search.jpg");
+    background-image: url("img/search.png");
     background-repeat: no-repeat;
+    background-position: center;
     height: 47px;
     width: 53px;
     display: inline-block;
@@ -194,7 +195,7 @@ navbar{
     cursor: pointer;
     background-color: #fff;
     position: relative;
-    bottom: 1px; }
+    bottom: 1px;}
     .drop-menu ul.sub-menu {
       margin-left: 0; 
       display: none;}
