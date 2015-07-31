@@ -1,8 +1,7 @@
 # Site settings
 title: thredUP
 email: rachel.lin@thredup.com
-description: > # this means to ignore newlines until "baseurl:"
- 	thredUP's design wiki
+description: thredUP's design wiki
 baseurl: "http://rachelelle.github.io/thredupdesignwiki" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: jekyllrb
